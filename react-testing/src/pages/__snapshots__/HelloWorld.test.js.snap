@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HELLO WORLD TEST test 1 1`] = `
+<input
+  id="input-elem"
+  placeholder="Input anything..."
+  type="text"
+/>
+`;
